@@ -3,8 +3,7 @@
 import random
 import string
 import requests
-import json
-import time
+
 
 def main():
     print("Discord Nitro Generator")
